@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Dev Training Grounds](https://dev-training-ground.web.app/)
 
-- 🌱 I’m currently learning **tailwind.css**
+- 🌱 I’m currently learning **tailwindcss**
 
 - 👯 I’m looking to collaborate on **Open Source Software**
 
