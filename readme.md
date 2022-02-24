@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ritik Saxena</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
 
+<img src="images/Ritik Saxena.png" style="width: 100%; object-fit:contain"/>
 - 🔭 I’m currently working on [Dev Training Grounds](https://dev-training-ground.web.app/)
 
 - 🌱 I’m currently learning **Node.js**
