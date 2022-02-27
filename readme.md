@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Dev Training Grounds](https://dev-training-ground.web.app/)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Docker**
 
 - 📫 How to reach me **ritiksaxena124@gmail.com**
 
