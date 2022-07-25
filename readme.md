@@ -1,10 +1,6 @@
 
 <img src="images/Ritik Saxena.png" style="width: 100%; object-fit:contain"/>
 
-- 🔭 I’m currently working on [Dev Training Grounds](https://dev-training-ground.web.app/)
-
-- 🌱 I’m currently learning **Docker**
-
 - 📫 How to reach me **ritiksaxena124@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
