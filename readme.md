@@ -1,5 +1,6 @@
 <div align="center">
 
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ritik%20Saxena&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=51&descSize=20)
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there!
