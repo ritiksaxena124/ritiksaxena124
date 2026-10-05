@@ -46,25 +46,25 @@ A curated selection of production-grade platforms and open-source tooling I've b
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/ritiksaxena124/llmgateway">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritiksaxena124&repo=llmgateway&theme=tokyonight&hide_border=true" width="100%" />
+      <a href="https://github.com/ritiksaxena124/engineer-os">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritiksaxena124&repo=engineer-os&theme=tokyonight&hide_border=true&cache_seconds=1800" width="100%" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/ritiksaxena124/lms-platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritiksaxena124&repo=lms-platform&theme=tokyonight&hide_border=true" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritiksaxena124&repo=lms-platform&theme=tokyonight&hide_border=true&cache_seconds=1800" width="100%" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/ritiksaxena124/carepulse">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritiksaxena124&repo=carepulse&theme=tokyonight&hide_border=true" width="100%" />
+      <a href="https://github.com/ritiksaxena124/llmgateway">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritiksaxena124&repo=llmgateway&theme=tokyonight&hide_border=true&cache_seconds=1800" width="100%" />
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/ritiksaxena124/Portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritiksaxena124&repo=Portfolio&theme=tokyonight&hide_border=true" width="100%" />
+      <a href="https://github.com/ritiksaxena124/carepulse">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritiksaxena124&repo=carepulse&theme=tokyonight&hide_border=true&cache_seconds=1800" width="100%" />
       </a>
     </td>
   </tr>
@@ -74,10 +74,10 @@ A curated selection of production-grade platforms and open-source tooling I've b
 <summary>🔍 <b>Quick summary of featured projects</b></summary>
 <br>
 
+- **[EngineerOS](https://github.com/ritiksaxena124/engineer-os)**: A 100x senior-engineer mentor OS — curriculum graph engine (40 dependency phases, 303 topics), active-recall question bank with spaced repetition, diagnostic engine, rubric grading, and real-time interview rooms. Built with NestJS, Prisma, Next.js 15, PostgreSQL, and Bun (180+ tests).
+- **[LMS Platform](https://github.com/ritiksaxena124/lms-platform)**: Complete SaaS Learning Management System built with Next.js 15, TypeScript, Stripe subscription billing, Clerk authentication, Sanity CMS, and analytics dashboard.
 - **[LLM Gateway](https://github.com/ritiksaxena124/llmgateway)**: Unified multi-provider LLM routing, analytics, rate-limiting, and tool-calling proxy built with TypeScript.
-- **[LMS Platform](https://github.com/ritiksaxena124/lms-platform)**: Complete SaaS Learning Management System built with Next.js 15, TypeScript, Stripe subscription billing, Clerk authentication, and analytics dashboard.
 - **[CarePulse](https://github.com/ritiksaxena124/carepulse)**: Modern healthcare appointment booking and patient record management system built with Next.js, Appwrite, and TypeScript.
-- **[Developer Portfolio](https://github.com/ritiksaxena124/Portfolio)**: High-performance personal portfolio built with Next.js App Router, Tailwind CSS, and smooth interaction states.
 
 </details>
 
